@@ -1,7 +1,7 @@
 ﻿<a name="br1"></a> 
 # Projet 7 : Qwenta
 
-##**Scénario**
+## **Scénario**
 
 Vous êtes développeur front-end au sein de l’agence Webgencia.
 
@@ -27,7 +27,9 @@ Comme promis, voici l’invitation !
 
 J’en profite pour partager plus d’informations.
 
-##**Ce qui est déjà prêt**
+__________________________________________________________________________________________________________
+
+## **Ce qui est déjà prêt**
 
 Je te mets en pièces jointes ce sur quoi on a travaillé ces derniers jours avec l'équipe Produit :
 
@@ -39,7 +41,9 @@ développement du site ;
 
 Le tableau des **user stories** sur Notion qui présente les besoins et attentes des utilisateurs du site.
 
-##**Ce qui reste à faire**
+__________________________________________________________________________________________________________
+
+## **Ce qui reste à faire**
 
 Tu vas pouvoir m’aider à préparer la réunion de présentation du projet à John sur 3 volets :
 
@@ -105,11 +109,11 @@ Pièces jointes :
 
 Vous parcourez tous les documents, et vous vous mettez au travail dès votre retour de pause déjeuner !
 
-
+__________________________________________________________________________________________________________
 
 <a name="br2"></a> 
 
-##**La semaine suivante**
+## **La semaine suivante**
 
 Vous avez envoyé votre travail à Soufiane qui vous répond par retour d’e-mail.
 
